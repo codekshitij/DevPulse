@@ -4,5 +4,12 @@
   },
   "scripts": {
     "dev": "concurrently \"npm --prefix backend start\" \"npm --prefix frontend run dev\""
+  },
+  "dependencies": {
+    "@fontsource/alumni-sans-pinstripe": "^5.2.5",
+    "@fontsource/comic-neue": "^5.2.5",
+    "@fontsource/open-sans": "^5.2.5",
+    "@fontsource/roboto": "^5.2.5",
+    "lucide-react": "^0.511.0"
   }
 }
